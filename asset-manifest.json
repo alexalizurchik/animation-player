@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.07442018.chunk.css",
-    "main.js": "/static/js/main.56aaf560.chunk.js",
-    "main.js.map": "/static/js/main.56aaf560.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.d3414afe.chunk.js": "/static/js/2.d3414afe.chunk.js",
-    "static/js/2.d3414afe.chunk.js.map": "/static/js/2.d3414afe.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.dd13977d76949d7dc03a7b53e50988e5.js": "/precache-manifest.dd13977d76949d7dc03a7b53e50988e5.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.07442018.chunk.css.map": "/static/css/main.07442018.chunk.css.map"
+    "main.css": "/animation-player/static/css/main.07442018.chunk.css",
+    "main.js": "/animation-player/static/js/main.56aaf560.chunk.js",
+    "main.js.map": "/animation-player/static/js/main.56aaf560.chunk.js.map",
+    "runtime~main.js": "/animation-player/static/js/runtime~main.58aee25c.js",
+    "runtime~main.js.map": "/animation-player/static/js/runtime~main.58aee25c.js.map",
+    "static/js/2.d3414afe.chunk.js": "/animation-player/static/js/2.d3414afe.chunk.js",
+    "static/js/2.d3414afe.chunk.js.map": "/animation-player/static/js/2.d3414afe.chunk.js.map",
+    "index.html": "/animation-player/index.html",
+    "precache-manifest.a83e324339788da42e25365eb8c1084e.js": "/animation-player/precache-manifest.a83e324339788da42e25365eb8c1084e.js",
+    "service-worker.js": "/animation-player/service-worker.js",
+    "static/css/main.07442018.chunk.css.map": "/animation-player/static/css/main.07442018.chunk.css.map"
   }
 }
